@@ -93,7 +93,7 @@ gem 'cssbundling-rails'
 ### 2. Bundleの実行とBootstrapの導入
 
 ```
-$ docker-compose exec app bash
+$ docker-compose exec web bash
 # bundle install
 # rails css:install:bootstrap
 ```
